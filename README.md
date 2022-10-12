@@ -1,2 +1,3 @@
-# LLOM
-Repo for my scientific research on optimal portfolio liquidation on low liquidity markets
+# LLOM - low liquidity market optimal portfolio liquidation.
+
+Репозиторий под моё научное исследование оптимальной стратегии ликвилдации портфеля финансовых инструментов на низколиквидных рынках.
